@@ -1,0 +1,71 @@
+body
+{
+  background-image: url('pozadina.jpg');
+}
+h2
+{
+  margin-top: 40px;
+}
+
+h1
+{
+  text-align: center;
+  color: white;
+  background-color: #48D1CC;
+  font-family: garamond;
+  margin: 0px;
+  font-size: 45px;
+  padding: 15px;
+  border: 1px solid black;
+}
+
+a
+{
+  text-decoration: none;
+  color: black;
+}
+
+table#navigacija
+{
+  height: 130px;
+  width: 100%;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+table#navigacija td
+{
+  text-align: center;
+  height: 120px;
+  color: white;
+  background-color: #48D1CC;
+  font-family: garamond;
+  font-size: 30px;
+  padding: 15px;
+  border: 1px solid black;
+}
+
+img#profilna
+{
+  border-style: solid;
+  height: 90px;
+  width: 130px;
+}
+
+table
+{
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+td,th
+{
+  padding: 5px;
+  padding-right: 20px;
+  font-size: 18px;
+  color: black;
+}
+div
+{
+  margin-left: 10px;
+}
